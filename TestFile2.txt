@@ -1,1 +1,3 @@
 this is a tst file 2
+
+this is a squash command
